@@ -1,0 +1,4 @@
+﻿  Source.cpp
+C:\Users\88696\Desktop\台科\大二下\物件導向實習\CS1010302W03\TS0303\Source.cpp(30,42): warning C4267: '正在初始化': 將 'size_t' 轉換為 'int'，資料可能遺失
+C:\Users\88696\Desktop\台科\大二下\物件導向實習\CS1010302W03\TS0303\Source.cpp(50,60): warning C4267: '正在初始化': 將 'size_t' 轉換為 'int'，資料可能遺失
+  TS0303.vcxproj -> C:\Users\88696\Desktop\台科\大二下\物件導向實習\CS1010302W03\x64\Debug\TS0303.exe

@@ -1,0 +1,3 @@
+﻿  Diary.cpp
+C:\Users\88696\Desktop\台科\大二下\物件導向實習\CS1010302W06\TS0605\Diary.cpp(22,49): warning C4267: '=': 將 'size_t' 轉換為 'int'，資料可能遺失
+  TS0605.vcxproj -> C:\Users\88696\Desktop\台科\大二下\物件導向實習\CS1010302W06\x64\Debug\TS0605.exe

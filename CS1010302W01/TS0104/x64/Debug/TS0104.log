@@ -1,0 +1,4 @@
+﻿  main.cpp
+C:\Users\USER\Desktop\CS1010302W01\TS0104\main.cpp(10,13): warning C4326: 'main' 的傳回類型應該是 'int'，而非 'void'
+C:\Users\USER\Desktop\CS1010302W01\TS0104\main.cpp(12,16): warning C4101: 'num': 未參考的區域變數
+  TS0104.vcxproj -> C:\Users\USER\Desktop\CS1010302W01\x64\Debug\TS0104.exe

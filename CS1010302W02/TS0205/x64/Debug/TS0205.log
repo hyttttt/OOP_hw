@@ -1,0 +1,6 @@
+﻿  Source.cpp
+C:\Users\88696\Desktop\台科\大二下\物件導向實習\CS1010302W02\TS0205\Source.cpp(38,2): warning C4267: '正在初始化': 將 'size_t' 轉換為 'int'，資料可能遺失
+C:\Users\88696\Desktop\台科\大二下\物件導向實習\CS1010302W02\TS0205\Source.cpp(53,31): warning C4267: '=': 將 'size_t' 轉換為 'int'，資料可能遺失
+C:\Users\88696\Desktop\台科\大二下\物件導向實習\CS1010302W02\TS0205\Source.cpp(78,29): warning C4267: '=': 將 'size_t' 轉換為 'int'，資料可能遺失
+C:\Users\88696\Desktop\台科\大二下\物件導向實習\CS1010302W02\TS0205\Source.cpp(80,29): warning C4267: '=': 將 'size_t' 轉換為 'int'，資料可能遺失
+  TS0205.vcxproj -> C:\Users\88696\Desktop\台科\大二下\物件導向實習\CS1010302W02\x64\Debug\TS0205.exe
